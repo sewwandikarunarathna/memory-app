@@ -1,0 +1,71 @@
+:root {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.add-btn, .btn-search {
+  background-color: #E8B4B8;
+  border: 1px solid #E8B4B8;
+  color: #67595E;
+  border-radius: 10%;
+  padding: 0px 10px;
+  width: auto;
+}
+
+.add-btn:hover {
+  background-color: #EED6D3;
+  color: #E8B4B8;
+  border: 1px solid #EED6D3;
+}
+
+.nav-txt {
+  color: #EED6D3;
+}
+.btn-read{
+  background-color: #E8B4B8;
+  border: 1px solid #E8B4B8;
+  color: #67595E;
+  border-radius: 15%;
+  padding: 10px;
+  width: 20%;
+}
+
+.btn-read:hover {
+  background-color: #67595E;
+  color: #E8B4B8;
+  border: 1px solid #67595E;
+}
+
+.btn-edit {
+  background-color: #EED6D3;
+  border: 1px solid #EED6D3;
+  color: #67595E;
+  border-radius: 15%;
+  padding: 10px;
+  width: 20%;
+}
+
+.btn-edit:hover {
+  background-color: #67595E;
+  color: #EED6D3;
+  border: 1px solid #67595E;
+}
+
+.btn-delete {
+  background-color: #A49393;
+  border: 1px solid #A49393;
+  color: #67595E;
+  border-radius: 15%;
+  padding: 10px;
+  width: 20%;
+}
+
+.btn-delete:hover {
+  background-color: #67595E;
+  color: #A49393;
+  border: 1px solid #67595E;
+}
+
+.addmemo-img {
+  width: 30rem;
+  height: 30rem;
+}
